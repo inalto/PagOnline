@@ -1,9 +1,9 @@
 <?php
 
-namespace PayWay\tran;
+namespace PagOnline\tran;
 
-use PayWay\Exception\IgfsMissingParException;
-use PayWay\IgfsUtils;
+use PagOnline\Exception\IgfsMissingParException;
+use PagOnline\IgfsUtils;
 
 class IgfsCgAuth extends BaseIgfsCgTran {
 

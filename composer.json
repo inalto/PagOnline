@@ -1,6 +1,6 @@
 {
-    "name": "inalto/payway",
-    "description": "BCC PayWay Payment Gateway interface",
+    "name": "inalto/pagonline",
+    "description": "PagOnline Payment Gateway interface",
     "type": "library",
     "authors": [
         {
@@ -9,7 +9,7 @@
         }
     ],
     "autoload": {
-        "psr-4": { "PayWay\\": "./" }
+        "psr-4": { "PagOnline\\": "./" }
     },
     "require": {},
     "minimum-stability": "dev",

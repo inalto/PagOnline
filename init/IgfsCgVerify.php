@@ -1,10 +1,10 @@
 <?php
 
-namespace PayWay\init;
+namespace PagOnline\init;
 
-use PayWay\Exception\IgfsMissingParException;
-use PayWay\IgfsUtils;
-use PayWay\Level3Info;
+use PagOnline\Exception\IgfsMissingParException;
+use PagOnline\IgfsUtils;
+use PagOnline\Level3Info;
 
 class IgfsCgVerify extends BaseIgfsCgInit {
 

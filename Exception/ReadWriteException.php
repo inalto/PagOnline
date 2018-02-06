@@ -1,6 +1,6 @@
 <?php
 
-namespace PayWay\Exception;
+namespace PagOnline\Exception;
 
 class ReadWriteException extends IOException {
     public function __construct($url, $message) {

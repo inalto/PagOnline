@@ -1,11 +1,11 @@
-# PayWay
-BCC sinergia Igfs payment gateway sdk for php 7.x
+# PagOnline
+PagOnline Igfs payment gateway sdk for php 7.x
 
 ```php
 
 require __DIR__.'/vendor/autoload.php';
 
-use PayWay\init\IgfsCgInit;
+use PagOnline\init\IgfsCgInit;
 
  $init = new IgfsCgInit();
  //$init->disableCheckSSLCert();

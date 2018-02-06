@@ -1,10 +1,10 @@
 <?php
 
-namespace PayWay\mpi;
+namespace PagOnline\mpi;
 
-use PayWay\BaseIgfsCg;
-use PayWay\Exception\IgfsMissingParException;
-use PayWay\IgfsUtils;
+use PagOnline\BaseIgfsCg;
+use PagOnline\Exception\IgfsMissingParException;
+use PagOnline\IgfsUtils;
 
 
 abstract class BaseIgfsCgMpi extends BaseIgfsCg {

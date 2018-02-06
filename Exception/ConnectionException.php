@@ -1,6 +1,6 @@
 <?php
 
-namespace PayWay\Exception;
+namespace PagOnline\Exception;
 
 class ConnectionException extends IOException {
     public function __construct($url, $message) {

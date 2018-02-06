@@ -1,12 +1,12 @@
 <?php
 
-namespace PayWay;
+namespace PagOnline;
 
-use PayWay\Exception\ConnectionException;
-use PayWay\Exception\IgfsException;
-use PayWay\Exception\IgfsMissingParException;
-use PayWay\Exception\IOException;
-use PayWay\Exception\ReadWriteException;
+use PagOnline\Exception\ConnectionException;
+use PagOnline\Exception\IgfsException;
+use PagOnline\Exception\IgfsMissingParException;
+use PagOnline\Exception\IOException;
+use PagOnline\Exception\ReadWriteException;
 
 abstract class BaseIgfsCg {
 	

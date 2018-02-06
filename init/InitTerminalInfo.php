@@ -1,5 +1,5 @@
 <?php
-namespace PayWay\init;
+namespace PagOnline\init;
 
 
 class InitTerminalInfo {

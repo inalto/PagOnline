@@ -1,10 +1,10 @@
 <?php
 
-namespace PayWay\init;
+namespace PagOnline\init;
 
-use PayWay\BaseIgfsCg;
-use PayWay\Exception\IgfsMissingParException;
-use PayWay\IgfsUtils;
+use PagOnline\BaseIgfsCg;
+use PagOnline\Exception\IgfsMissingParException;
+use PagOnline\IgfsUtils;
 
 class IgfsCgSelector extends BaseIgfsCgInit {
 

@@ -1,5 +1,5 @@
 <?php
 
-namespace PayWay\Exception;
+namespace PagOnline\Exception;
 
 class IOException extends \Exception { }

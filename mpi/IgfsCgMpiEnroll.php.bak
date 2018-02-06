@@ -1,9 +1,9 @@
 <?php
 
-namespace PayWay\mpi;
+namespace PagOnline\mpi;
 
-use PayWay\Exception\IgfsMissingParException;
-use PayWay\IgfsUtils;
+use PagOnline\Exception\IgfsMissingParException;
+use PagOnline\IgfsUtils;
 
 class IgfsCgMpiEnroll extends BaseIgfsCgMpi {
 

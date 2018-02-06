@@ -1,10 +1,10 @@
 <?php
 
-namespace PayWay\tran;
+namespace PagOnline\tran;
 
-use PayWay\BaseIgfsCg;
-use PayWay\Exception\IgfsMissingParException;
-use PayWay\IgfsUtils;
+use PagOnline\BaseIgfsCg;
+use PagOnline\Exception\IgfsMissingParException;
+use PagOnline\IgfsUtils;
 
 abstract class BaseIgfsCgTran extends BaseIgfsCg {
 

@@ -1,9 +1,9 @@
 <?php
 
-namespace PayWay\init;
+namespace PagOnline\init;
 
-use PayWay\BaseIgfsCg;
-use PayWay\Exception\IgfsMissingParException;
+use PagOnline\BaseIgfsCg;
+use PagOnline\Exception\IgfsMissingParException;
 
 abstract class BaseIgfsCgInit extends BaseIgfsCg {
 

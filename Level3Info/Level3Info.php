@@ -1,6 +1,6 @@
 <?php
 
-namespace PayWay\Level3Info;
+namespace PagOnline\Level3Info;
 
 class Level3Info {
 	

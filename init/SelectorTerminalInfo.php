@@ -1,6 +1,6 @@
 <?php
-namespace PayWay\init;
-use PayWay\IgfsUtils;
+namespace PagOnline\init;
+use PagOnline\IgfsUtils;
 
 class SelectorTerminalInfo {
 	
